@@ -32,7 +32,7 @@ else
 // A(m,n) = n+1, если m=0
 // A(m,n) = A(m-1,1), если m>0 и n=0
 // A(m,n) = A(m-1,A(m,n-1)), если m>0 и n>0
-double CountAkkermanFunction(double m, double n)
+int CountAkkermanFunction(int m, int n)
 {
     if (m == 0)
     {
@@ -47,8 +47,8 @@ double CountAkkermanFunction(double m, double n)
 
 Console.WriteLine("Задача 2");
 Console.WriteLine("Введите 2 числа для вычисления функции Аккермана:");
-double m2 = Convert.ToDouble(Console.ReadLine());
-double n2 = Convert.ToDouble(Console.ReadLine());
+int m2 = Convert.ToInt32(Console.ReadLine());
+int n2 = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine($"Функция А({m2},{n2}) = {CountAkkermanFunction(m2, n2)}");
 
 // Задача 3: Задайте произвольный массив. Выведете его элементы, 
