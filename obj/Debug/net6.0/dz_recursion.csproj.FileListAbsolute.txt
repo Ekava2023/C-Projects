@@ -1,0 +1,15 @@
+E:\Katya\GeekBrains\c#_prog\lesson5\dz_recursion\bin\Debug\net6.0\dz_recursion.exe
+E:\Katya\GeekBrains\c#_prog\lesson5\dz_recursion\bin\Debug\net6.0\dz_recursion.deps.json
+E:\Katya\GeekBrains\c#_prog\lesson5\dz_recursion\bin\Debug\net6.0\dz_recursion.runtimeconfig.json
+E:\Katya\GeekBrains\c#_prog\lesson5\dz_recursion\bin\Debug\net6.0\dz_recursion.dll
+E:\Katya\GeekBrains\c#_prog\lesson5\dz_recursion\bin\Debug\net6.0\dz_recursion.pdb
+E:\Katya\GeekBrains\c#_prog\lesson5\dz_recursion\obj\Debug\net6.0\dz_recursion.csproj.AssemblyReference.cache
+E:\Katya\GeekBrains\c#_prog\lesson5\dz_recursion\obj\Debug\net6.0\dz_recursion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Katya\GeekBrains\c#_prog\lesson5\dz_recursion\obj\Debug\net6.0\dz_recursion.AssemblyInfoInputs.cache
+E:\Katya\GeekBrains\c#_prog\lesson5\dz_recursion\obj\Debug\net6.0\dz_recursion.AssemblyInfo.cs
+E:\Katya\GeekBrains\c#_prog\lesson5\dz_recursion\obj\Debug\net6.0\dz_recursion.csproj.CoreCompileInputs.cache
+E:\Katya\GeekBrains\c#_prog\lesson5\dz_recursion\obj\Debug\net6.0\dz_recursion.dll
+E:\Katya\GeekBrains\c#_prog\lesson5\dz_recursion\obj\Debug\net6.0\refint\dz_recursion.dll
+E:\Katya\GeekBrains\c#_prog\lesson5\dz_recursion\obj\Debug\net6.0\dz_recursion.pdb
+E:\Katya\GeekBrains\c#_prog\lesson5\dz_recursion\obj\Debug\net6.0\dz_recursion.genruntimeconfig.cache
+E:\Katya\GeekBrains\c#_prog\lesson5\dz_recursion\obj\Debug\net6.0\ref\dz_recursion.dll
